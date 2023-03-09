@@ -1,5 +1,5 @@
 # GGosztolya/TSP
-A very simple solution for the Traveling Salesman Problem written in C
+A very simple solution to the Traveling Salesman Problem written in C
 
 ## Instructions to run the program
 1. Open a command line, and type ```git clone https://github.com/GGosztolya/tps```
